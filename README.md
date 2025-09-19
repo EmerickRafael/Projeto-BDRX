@@ -1,1 +1,1 @@
-Melhores ações americanas da BDRX para se investir usando CAPM para cálculo dos retornos esperados, Sharpe para relação risco-retorno e alfa para captar retornos esporádicos não esperados pelo Modelo.
+Análise das melhores ações americanas da BDRX para se investir usando CAPM para cálculo dos retornos esperados, Sharpe para relação risco-retorno e alfa para captar retornos esporádicos não esperados pelo Modelo.
