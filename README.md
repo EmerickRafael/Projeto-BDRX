@@ -1,2 +1,1 @@
-# Projeto-BDRX
-Projeto Quant usando CAPM, Sharpe e alfa para BDRX
+Melhores ações americanas da BDRX para se investir usando CAPM para cálculo dos retornos esperados, Sharpe para relação risco-retorno e alfa para captar retornos esporádicos não esperados pelo Modelo.
